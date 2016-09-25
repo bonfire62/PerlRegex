@@ -1,0 +1,7 @@
+There are <four> <tags> <on this> <line>.
+Only <one tag on> this <line.
+This <tag contains "two" "quoted" strings> doesn't it?
+There is <one <tag here> and <another <one here>
+This <might ">" cause ">" some difficulty> or maybe not
+This <doesn't count "as a tag
+Neither <does "this>

@@ -1,0 +1,10 @@
+<four>
+<tags>
+<on this>
+<line>
+<one tag on>
+<tag contains "two" "quoted" strings>
+<one <tag here>
+<another <one here>
+<might ">" cause ">" some difficulty>
+<does "this>

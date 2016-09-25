@@ -4,7 +4,11 @@ while (<STDIN>)
     # with the value of the expression.
     #  Option g = global (replace all patterns)
     #  Option e = evaluate (evaluate the replacement)    
-	s/(\/\/(.*)\n?)/ uc($1)/ge;
+
+	while (m/(<.*?\s*\w\>)/gm)
+	{
+		print $1 . "\n";
+	}
+
 	
-	print;
 }
